@@ -16,8 +16,6 @@ public class App
 
     private String phone;
 
-    private String nickname;
-
     private String hobbit;
 
     private String sex;
