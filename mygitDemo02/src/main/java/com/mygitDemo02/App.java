@@ -20,4 +20,6 @@ public class App
 
     private String hobbit;
 
+    private String sex;
+
 }
