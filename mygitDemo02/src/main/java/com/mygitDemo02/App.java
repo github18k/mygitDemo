@@ -14,4 +14,6 @@ public class App
 
     private int age;
 
+    private String name;
+
 }
