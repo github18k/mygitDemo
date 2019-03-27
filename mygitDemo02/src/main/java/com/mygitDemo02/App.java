@@ -16,6 +16,11 @@ public class App
 
     private String phone;
 
-    private String nickname;
+    private String address;
+
+    private String hobbit;
+
+    private String sex;
+
 
 }
