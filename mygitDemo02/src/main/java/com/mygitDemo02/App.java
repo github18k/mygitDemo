@@ -12,6 +12,7 @@ public class App
         System.out.println("hahhaahahaha~~~~~~");
     }
 
+    private Integer id;
     private int age;
 
     private String phone;
@@ -19,8 +20,6 @@ public class App
     private String address;
 
     private String hobbit;
-
-    private String sex;
 
 
 }
