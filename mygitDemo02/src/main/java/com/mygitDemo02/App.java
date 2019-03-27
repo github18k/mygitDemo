@@ -16,4 +16,6 @@ public class App
 
     private String name;
 
+    private String address;
+
 }
