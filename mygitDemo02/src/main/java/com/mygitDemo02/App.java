@@ -18,4 +18,6 @@ public class App
 
     private String nickname;
 
+    private String hobbit;
+
 }
